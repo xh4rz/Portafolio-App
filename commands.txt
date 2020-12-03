@@ -1,0 +1,15 @@
+1- npm install react-bootstrap bootstrap
+2- npm install --save styled-components
+3- npm install typewriter-effect
+4- npm install react-parallax
+5- npm install react-reveal --save
+
+npm install -g npm@7.0.10
+https://github.com/npm/cli/releases/tag/v7.0.10
+
+-----------------------------------------------------
+commands react snippets
+rafc -> arrow function component
+rafce
+
+https://www.freelogodesign.org/preview?lang=es&name=x%20h%204%20r%20z&logo=9b8e3214-ecb8-4263-ae48-4882cbccb91e
